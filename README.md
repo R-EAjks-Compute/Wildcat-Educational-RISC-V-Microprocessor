@@ -31,14 +31,12 @@ Available at the [WOSET conference page](https://woset-workshop.github.io/WOSET2
 
 and
 ```bibtex
-@misc{schoeberl2025wildcateducationalriscvmicroprocessors,
-      title={Wildcat: Educational RISC-V Microprocessors}, 
-      author={Martin Schoeberl},
-      year={2025},
-      eprint={2502.20197},
-      archivePrefix={arXiv},
-      primaryClass={cs.AR},
-      url={https://arxiv.org/abs/2502.20197}, 
+@InProceedings{wildcat:arcs2025,
+  author    = {Martin Schoeberl},
+  booktitle = {Architecture of Computing Systems -- ARCS 2025},
+  title     = {Wildcat: Educational RISC-V Microprocessors},
+  year      = {2025},
+  url       = {https://www.jopdesign.com/doc/wildcat-arcs.pdf},
 }
 ```
 
